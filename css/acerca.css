@@ -1,0 +1,19 @@
+#navbar {
+    z-index: 1;
+}
+
+.container {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+p {
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+#footer {
+    background-image: url(/imagenes/bg-04.png);
+    background-color: rgb(244, 144, 24);
+    background-size: 50px 50px;
+}
